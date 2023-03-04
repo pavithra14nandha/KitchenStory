@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right,rgba(0,0,0,0.5), rgba(0,0,0,0.8) ),
+    url("C:\\images\\foodapp2.jpg");
+    background-size: cover;  
+    background-attachment: fixed;
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    text-decoration:none;
+    color:rgb(9, 42, 161);
+    }
+
